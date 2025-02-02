@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=X-Sarthak&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views">
+</p>
+
 ### 🛠 Tech Stack
 
 #### **Languages**
@@ -110,10 +114,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=X-Sarthak&theme=github_dark" width="30%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=X-Sarthak&theme=github_dark" width="30%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=X-Sarthak&theme=github_dark" width="30%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=X-Sarthak&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views">
 </p>
 
 <p align="left"> 
