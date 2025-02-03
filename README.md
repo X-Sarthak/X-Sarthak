@@ -102,8 +102,8 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=X-Sarthak&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true" width="48%">
+        <img src="https://github-readme-stats.vercel.app/api?username=X-Sarthak&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45.5%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true" width="48%">
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=X-Sarthak&theme=github_dark" width="30%">
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=X-Sarthak&theme=darkhub" alt="Sarthak Prasad's Trophies" />
   </a> 
