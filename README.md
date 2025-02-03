@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Prasad</h1>
-<h2 align="center">Full Stack Developer | Blockchain Enthusiast | AI/ML Practitioner</h2>
+<h2 align="center">Full Stack Developer | Blockchain Practitioner | AI/ML Enthusiast</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R5dWg4b2NvM3A0N2pzM2J6eXl5a2I3ejV5cDZ6bXJkY3RkZXZ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="400px" alt="Blockchain Development">
@@ -52,6 +52,7 @@
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -61,6 +62,9 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=000000)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-6B4226?style=for-the-badge&logo=ethereum&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-FFCC00?style=for-the-badge&logo=pinata&logoColor=black)
 
 #### **AI/ML Tools**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -81,17 +85,17 @@
 
 ### 🚀 Featured Projects
 
-1. **DeFi Staking Platform (Solidity + React)**  
-   Decentralized staking protocol with yield farming capabilities  
-   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/defi-staking)
+1. **DeFi File Sharing System (Solidity + React)**  
+   Blockchain-powered decentralized file-sharing system using Solidity, Node.js, React, Hardhat, and Pinata.
+   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/Decentralization-File-sharing-System.git)
 
-2. **AI-Powered Chatbot (Python + TensorFlow)**  
-   NLP-based chatbot for customer support automation  
-   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/ai-chatbot)
+2. **Ether-Wallet: ERC-20 Token Project**  
+   This project is a React.js-based Ethereum wallet that interacts with an ERC-20 token deployed using Ether.js, Truffle, Ganache, Remix, and MetaMask.  
+   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/Ether-Wallet.git)
 
-3. **E-Commerce Platform (MERN Stack)**  
-   Full-stack e-commerce solution with real-time inventory management  
-   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/ecommerce-mern)
+3. **Social-Global-Chat-App (MERN Stack)**  
+   Full-stack social media application with user authentication, friend requests, and profile management.
+   [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/X-Sarthak/Social-Global-Chat-App.git)
 
 ---
 
