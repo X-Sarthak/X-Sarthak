@@ -103,7 +103,7 @@
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=X-Sarthak&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%">
-        <img src="https://streak-stats.demolab.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true" width="48%">
+        <img src="https://streak-stats.demolab.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true&random=12345" width="51%">
 </p>
 
 <p align="center">
