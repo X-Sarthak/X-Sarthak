@@ -103,7 +103,7 @@
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=X-Sarthak&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true" width="48%">
+        <img src="https://streak-stats.demolab.com/?user=X-Sarthak&theme=vision-friendly-dark&hide_border=true" width="48%">
 </p>
 
 <p align="center">
@@ -125,6 +125,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=X-Sarthak&theme=darkhub" alt="Sarthak Prasad's Trophies" />
   </a> 
 </p>
+
 
 ---
 
